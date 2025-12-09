@@ -1,56 +1,46 @@
-# 🐍 Python Logic Challenges: The Road to Cork 🇮🇪
+<div align="center">
 
-> **"Logic is the anatomy of thought."** > *Repository dedicated to mastering Python fundamentals through real-world scenarios, focusing on Data Structures, Algorithms, and Clean Code.*
+# 🐍 Python Challenges & Algorithms
+### "The only thing all humans are equal in is death." - Johan Liebert
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active_Grind-success?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Backend_Logic-blueviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active_Evolution-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Logic_%26_Architecture-bf00ff?style=for-the-badge)
 
-## 🎯 Objective
-To transition from **User** to **Creator**. This project tracks my evolution in Software Engineering, preparing for the **Bachelor of Business in Information Systems at MTU (Cork, Ireland)**.
-
-**Core Philosophy:**
-* **Execution > Theory:** Learning by building.
-* **English First:** All code, comments, and commits are in English.
-* **First Principles:** Understanding the "why" behind the syntax.
+</div>
 
 ---
 
-## 🛠️ Challenge Log & Progress
+## 🧠 About The Archive
 
-| ID | Challenge Name | Key Concepts | Status |
-| :--- | :--- | :--- | :---: |
-| `01` | **Guinness Budget** | `While Loops`, `Float Math` | ✅ |
-| `02` | **BPM Parity Check** | `Modulo %`, `Conditionals` | ✅ |
-| `03` | **Dublin Weather** | `F-strings`, `Math Conversion` | ✅ |
-| `04` | **Flatmate Bill Splitter** | `Dictionaries`, `Input Loops`, `Financial Logic` | ✅ |
-| `05` | **Dublin Bus Queue** | `Lists`, `Pop/Append`, `FIFO Logic` | ✅ |
-| `06` | **Setlist Shuffler** | `Random Module`, `List Manipulation` | ✅ |
-| `07` | **Euro Converter v2** | `Pure Functions`, `Return`, `Clean Code` | ✅ |
+Welcome to my training ground. This repository serves as a catalog of my cognitive evolution through programming. Here, I solve algorithmic challenges, dissect data structures, and refine my problem-solving efficiency using **Python**.
 
----
+It's not just about getting the right answer; it's about finding the most elegant, efficient, and scalable path to the solution.
 
-## 🧠 Technical Highlights
+## 🗂️ Structure
 
-### 🔹 Data Structures
-Moving beyond simple variables to complex structures:
-* **Dictionaries:** Used to map entities to values (e.g., *Flatmates -> Expenses*).
-* **Lists & Queues:** Implementing FIFO (First-In-First-Out) logic for simulations.
+The challenges are organized by complexity and source:
 
-### 🔹 Algorithms
-* **Randomization:** Utilizing the `random` module for non-deterministic behavior.
-* **Optimization:** Refactoring code to use **Pure Functions** (DRY Principle - *Don't Repeat Yourself*).
+| Level | Description | Focus |
+| :--- | :--- | :--- |
+| **🟢 Easy** | Fundamental logic & syntax | Basic manipulation, Loops, Conditionals |
+| **🟡 Medium** | Data Structures & Algorithms | Hash Maps, Pointers, Recursion |
+| **🔴 Hard** | Complex Optimization | Dynamic Programming, Graphs, System Design |
 
----
+## 🛠️ Tech Stack & Tools
 
-## 🚀 How to Run
+* **Language:** Python 3.12+
+* **Testing:** Pytest (TDD approach when applicable)
+* **Analysis:** Big O Notation analysis in comments
+* **Key Libraries:** `numpy`, `pandas`, `math`
 
-Clone the repository and navigate to the project folder:
+## 🚀 Recent Highlights
 
-```bash
-git clone [https://github.com/matzxcss/python-logic-challenges-basics.git](https://github.com/matzxcss/python-logic-challenges-basics.git)
-<<<<<<< HEAD
-cd python-logic-challenges-basics
-=======
-cd python-logic-challenges-basics
->>>>>>> 32a3250891cc64f5cc91f115a7b26568f4bb04e1
+- [x] **[Name of a hard exercise you did]**: *Solved using [Specific Algorithm] to optimize time complexity to O(n).*
+- [ ] **[Next Goal]**: *Mastering Binary Search Trees.*
+
+## 🧪 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/SeuUsuario/python-challenges.git](https://github.com/SeuUsuario/python-challenges.git)
