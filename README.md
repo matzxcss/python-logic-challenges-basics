@@ -49,4 +49,8 @@ Clone the repository and navigate to the project folder:
 
 ```bash
 git clone [https://github.com/matzxcss/python-logic-challenges-basics.git](https://github.com/matzxcss/python-logic-challenges-basics.git)
+<<<<<<< HEAD
 cd python-logic-challenges-basics
+=======
+cd python-logic-challenges-basics
+>>>>>>> 32a3250891cc64f5cc91f115a7b26568f4bb04e1
