@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Python Challenges & Algorithms
+# 🐍 Python Logic Challenges: The Road to Cork 🇮🇪
 ### "The only thing all humans are equal in is death." - Johan Liebert
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,32 +15,52 @@
 
 Welcome to my training ground. This repository serves as a catalog of my cognitive evolution through programming. Here, I solve algorithmic challenges, dissect data structures, and refine my problem-solving efficiency using **Python**.
 
-It's not just about getting the right answer; it's about finding the most elegant, efficient, and scalable path to the solution.
+**Objective:** To transition from User to Creator. This project tracks my evolution in Software Engineering, preparing for the **Bachelor of Business in Information Systems at MTU (Cork, Ireland)**.
 
-## 🗂️ Structure
+**Core Philosophy:**
+* **Execution > Theory:** Learning by building.
+* **English First:** All code, comments, and commits are in English.
+* **First Principles:** Understanding the "why" behind the syntax.
 
-The challenges are organized by complexity and source:
+---
 
-| Level | Description | Focus |
-| :--- | :--- | :--- |
-| **🟢 Easy** | Fundamental logic & syntax | Basic manipulation, Loops, Conditionals |
-| **🟡 Medium** | Data Structures & Algorithms | Hash Maps, Pointers, Recursion |
-| **🔴 Hard** | Complex Optimization | Dynamic Programming, Graphs, System Design |
+## 🗂️ Challenge Log & Architecture
 
-## 🛠️ Tech Stack & Tools
+The challenges are organized by complexity and technical focus.
 
-* **Language:** Python 3.12+
-* **Testing:** Pytest (TDD approach when applicable)
-* **Analysis:** Big O Notation analysis in comments
-* **Key Libraries:** `numpy`, `pandas`, `math`
+| ID | Challenge Name | Key Concepts | Complexity (Big O) |
+| :--- | :--- | :--- | :---: |
+| `01` | **Guinness Budget** | `While Loops`, `Float Math` | $O(n)$ |
+| `02` | **BPM Parity Check** | `Modulo %`, `Conditionals` | $O(1)$ |
+| `03` | **Dublin Weather** | `F-strings`, `Comparison Operators` | $O(1)$ |
+| `04` | **Flatmate Bill Splitter** | `Dictionaries`, `Financial Logic` | $O(n)$ |
+| `05` | **Dublin Bus Queue** | `Lists`, `FIFO Logic`, `Pop/Append` | $O(n)$ |
+| `06` | **Setlist Shuffler** | `Random Module`, `List Manipulation` | $O(n)$ |
+| `07` | **Safe Euro Converter** | `Try/Except`, `Error Handling` | $O(1)$ |
+| `08` | **The Gatekeeper** | `While/Else`, `Auth Logic` | $O(n)$ |
+| `09` | **Artist Class** | `OOP`, `Classes`, `Self`, `Methods` | $O(1)$ |
 
-## 🚀 Recent Highlights
+---
 
-- [x] **[Name of a hard exercise you did]**: *Solved using [Specific Algorithm] to optimize time complexity to O(n).*
-- [ ] **[Next Goal]**: *Mastering Binary Search Trees.*
+## 🛠️ Technical Highlights
 
-## 🧪 How to Run
+### 🔹 Object-Oriented Programming (OOP)
+Moving beyond procedural code.
+* **Classes & Objects:** Modeling real-world entities (e.g., `Artist`) with attributes and behaviors.
+* **State Management:** Using `self` to manage instance data.
+
+### 🔹 Data Structures
+* **Dictionaries:** used for mapping entities to values.
+* **Queues (Lists):** Implementing FIFO (First-In-First-Out) logic for simulations like the Dublin Bus.
+
+### 🔹 Algorithms & Complexity
+* **Randomization:** Utilizing the `random` module for non-deterministic behavior.
+* **Error Handling:** Robust input validation using `try/except` blocks to prevent crashes.
+
+---
+
+## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SeuUsuario/python-challenges.git](https://github.com/SeuUsuario/python-challenges.git)
+   git clone [https://github.com/matzxcss/python-logic-challenges-basics.git](https://github.com/matzxcss/python-logic-challenges-basics.git)
