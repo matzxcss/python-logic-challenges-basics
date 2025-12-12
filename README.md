@@ -39,6 +39,9 @@ The challenges are organized by complexity and technical focus.
 | `07` | **Safe Euro Converter** | `Try/Except`, `Error Handling` | $O(1)$ |
 | `08` | **The Gatekeeper** | `While/Else`, `Auth Logic` | $O(n)$ |
 | `09` | **Artist Class** | `OOP`, `Classes`, `Self`, `Methods` | $O(1)$ |
+| `10` | **Digital Wallet** | `OOP`, `Lists as History` | $O(1)$ |
+| `11` | **Gym Rat Protocol** | `Math Formulas`, `Dictionaries` | $O(1)$ |
+| `12` | **Cork Countdown** | `Datetime Module`, `Date Parsing` | $O(1)$ |
 
 ---
 
