@@ -42,6 +42,8 @@ The challenges are organized by complexity and technical focus.
 | `10` | **Digital Wallet** | `OOP`, `Lists as History` | $O(1)$ |
 | `11` | **Gym Rat Protocol** | `Math Formulas`, `Dictionaries` | $O(1)$ |
 | `12` | **Cork Countdown** | `Datetime Module`, `Date Parsing` | $O(1)$ |
+| `13` | **Student Ranking** | `Sorted`, `Lambda`, `Tuples` | $O(n \log n)$ |
+| `14` | **High BPM Beats** | `Dict Comprehension`, `Type Hinting` | $O(n)$ |
 
 ---
 
