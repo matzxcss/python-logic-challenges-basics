@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 🐍 Python Logic Challenges: The Road to Cork 🇮🇪
 ### "The only thing all humans are equal in is death." - Johan Liebert
