@@ -36,7 +36,7 @@ class MissionCork:
         self.origin = "Brazil :: FATEC"
         self.destination = "Cork, Ireland :: MTU"
         self.weapon = "Python"
-        self.days_training = 25
+        self.days_training = 29
         self.protocols_completed = 14
         
     def status(self):
@@ -118,7 +118,7 @@ python3 01_guinness_budget.py
 ## ⬡ MISSION METRICS
 
 ```
-[████████████████░░░░] TRAINING: 25 DAYS
+[████████████████░░░░] TRAINING: 29 DAYS
 [████████████████████] PROTOCOLS: 14 COMPLETED
 [████████░░░░░░░░░░░░] JOURNEY TO CORK: 40%
 ```
@@ -154,8 +154,8 @@ def mission_status():
 </div>
 
 <!--
-    Training initiated: Day 1
-    Current day: Day 25
+    Training initiated: November 24, 2024
+    Current day: Day 29
     Protocols completed: 14
     Destination: Cork, Ireland
     Method: Logic + Persistence
