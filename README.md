@@ -36,8 +36,8 @@ class MissionCork:
         self.origin = "Brazil :: FATEC"
         self.destination = "Cork, Ireland :: MTU"
         self.weapon = "Python"
-        self.days_training = 29
-        self.protocols_completed = 14
+        self.days_training = 30
+        self.protocols_completed = 15
         
     def status(self):
         return f"[TRAINING] {self.protocols_completed} protocols mastered in {self.days_training} days"
@@ -72,6 +72,7 @@ Training protocols organized by complexity and technical focus.
 | `12` | **Cork Countdown** | Datetime Module, Parsing | O(1) |
 | `13` | **Student Ranking** | Sorted(), Lambda, Tuples | O(n log n) |
 | `14` | **High BPM Beats** | Dict Comprehension, Type Hints | O(n) |
+| `15` | **Decorator Pipeline** | Decorators, Functional Programming | $O(n)$ |
 
 ---
 
@@ -159,8 +160,8 @@ def mission_status():
 
 <!--
     Training initiated: November 24, 2024
-    Current day: Day 29
-    Protocols completed: 14
+    Current day: Day 30
+    Protocols completed: 15
     Destination: Cork, Ireland
     Method: Logic + Persistence
     Outcome: Guaranteed
