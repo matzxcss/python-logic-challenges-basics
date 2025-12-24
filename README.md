@@ -75,28 +75,27 @@ Training protocols organized by complexity and technical focus.
 
 ---
 
-## ⨯ TECHNICAL SYSTEMS DEPLOYED
+## 🗂️ Challenge Log & Architecture
 
-### Object-Oriented Architecture
-Moving beyond procedural thinking into system design.
-```python
-# Example: Modeling real-world entities with state and behavior
-class DigitalWallet:
-    def __init__(self, account_name, initial_balance=0):
-        self.balance = initial_balance
-        self.transaction_history = []  # Memory of the system
-```
+The challenges are organized by complexity and technical focus.
 
-### Data Structure Implementations
-- **Dictionaries:** Key-value mappings for entity relationships
-- **Queues (Lists):** FIFO logic for real-world simulations
-- **Tuples:** Immutable data for ranking systems
-
-### Algorithmic Thinking
-- **Randomization:** Non-deterministic behavior with `random` module
-- **Error Handling:** Robust input validation preventing system crashes
-- **Lambda Functions:** Functional programming for concise logic
-- **Sorting Algorithms:** Understanding O(n log n) complexity
+| ID | Challenge Name | Key Concepts | Complexity (Big O) |
+| :--- | :--- | :--- | :---: |
+| `01` | **Guinness Budget** | `While Loops`, `Float Math` | $O(n)$ |
+| `02` | **BPM Parity Check** | `Modulo %`, `Conditionals` | $O(1)$ |
+| `03` | **Dublin Weather** | `F-strings`, `Comparison Operators` | $O(1)$ |
+| `04` | **Flatmate Bill Splitter** | `Dictionaries`, `Financial Logic` | $O(n)$ |
+| `05` | **Dublin Bus Queue** | `Lists`, `FIFO Logic`, `Pop/Append` | $O(n)$ |
+| `06` | **Setlist Shuffler** | `Random Module`, `List Manipulation` | $O(n)$ |
+| `07` | **Safe Euro Converter** | `Try/Except`, `Error Handling` | $O(1)$ |
+| `08` | **The Gatekeeper** | `While/Else`, `Auth Logic` | $O(n)$ |
+| `09` | **Artist Class** | `OOP`, `Classes`, `Self`, `Methods` | $O(1)$ |
+| `10` | **Digital Wallet** | `OOP`, `Lists as History` | $O(1)$ |
+| `11` | **Gym Rat Protocol** | `Math Formulas`, `Dictionaries` | $O(1)$ |
+| `12` | **Cork Countdown** | `Datetime Module`, `Date Parsing` | $O(1)$ |
+| `13` | **Student Ranking** | `Sorted`, `Lambda`, `Tuples` | $O(n \log n)$ |
+| `14` | **High BPM Beats** | `Dict Comprehension`, `Type Hinting` | $O(n)$ |
+| `15` | **Decorator Pipeline** | `Decorators`, `Functional Programming` | $O(n)$ |
 
 ---
 
@@ -115,13 +114,18 @@ python3 01_guinness_budget.py
 
 ---
 
-## ⬡ MISSION METRICS
+### 🔹 Functional Programming & Decorators
+* **Custom Decorators:** Implementation of a multi-layered pipeline to filter, transform, and format data structures dynamically.
+* **Decorator Stacking:** Understanding the "bottom-up" execution order and how data flows through wrapped functions.
 
-```
-[████████████████░░░░] TRAINING: 29 DAYS
-[████████████████████] PROTOCOLS: 14 COMPLETED
-[████████░░░░░░░░░░░░] JOURNEY TO CORK: 40%
-```
+### 🔹 Object-Oriented Programming (OOP)
+Moving beyond procedural code.
+* **Classes & Objects:** Modeling real-world entities (e.g., `Artist`) with attributes and behaviors.
+* **State Management:** Using `self` to manage instance data.
+
+### 🔹 Data Structures
+* **Dictionaries:** Used for mapping entities to values.
+* **Queues (Lists):** Implementing FIFO (First-In-First-Out) logic for simulations like the Dublin Bus.
 
 **Current Focus:** Advanced Python (Decorators, Generators, Async)  
 **Next Milestone:** Data Structures & Algorithms (Trees, Graphs, Dynamic Programming)  
