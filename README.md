@@ -44,10 +44,15 @@ The challenges are organized by complexity and technical focus.
 | `12` | **Cork Countdown** | `Datetime Module`, `Date Parsing` | $O(1)$ |
 | `13` | **Student Ranking** | `Sorted`, `Lambda`, `Tuples` | $O(n \log n)$ |
 | `14` | **High BPM Beats** | `Dict Comprehension`, `Type Hinting` | $O(n)$ |
+| `15` | **Decorator Pipeline** | `Decorators`, `Functional Programming` | $O(n)$ |
 
 ---
 
 ## 🛠️ Technical Highlights
+
+### 🔹 Functional Programming & Decorators
+* **Custom Decorators:** Implementation of a multi-layered pipeline to filter, transform, and format data structures dynamically.
+* **Decorator Stacking:** Understanding the "bottom-up" execution order and how data flows through wrapped functions.
 
 ### 🔹 Object-Oriented Programming (OOP)
 Moving beyond procedural code.
@@ -55,7 +60,7 @@ Moving beyond procedural code.
 * **State Management:** Using `self` to manage instance data.
 
 ### 🔹 Data Structures
-* **Dictionaries:** used for mapping entities to values.
+* **Dictionaries:** Used for mapping entities to values.
 * **Queues (Lists):** Implementing FIFO (First-In-First-Out) logic for simulations like the Dublin Bus.
 
 ### 🔹 Algorithms & Complexity
