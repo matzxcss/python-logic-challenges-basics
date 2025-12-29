@@ -73,6 +73,7 @@ Training protocols organized by complexity and technical focus.
 | `13` | **Student Ranking** | Sorted(), Lambda, Tuples | O(n log n) |
 | `14` | **High BPM Beats** | Dict Comprehension, Type Hints | O(n) |
 | `15` | **Decorator Pipeline** | Decorators, Functional Programming | O(n) |
+| `16` | **The Matrix Architect** | In-Place Mutation, Guard Clauses, Slicing | $(n^2) |
 
 ---
 
