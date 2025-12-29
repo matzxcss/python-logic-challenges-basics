@@ -45,6 +45,7 @@ The challenges are organized by complexity and technical focus.
 | `13` | **Student Ranking** | `Sorted`, `Lambda`, `Tuples` | $O(n \log n)$ |
 | `14` | **High BPM Beats** | `Dict Comprehension`, `Type Hinting` | $O(n)$ |
 | `15` | **Decorator Pipeline** | `Decorators`, `Functional Programming` | $O(n)$ |
+| `16` | **The Matrix Architect** | `In-Place Mutation`, `Guard Clauses`, `Slicing` | $O(n^2)$ |
 
 ---
 
@@ -56,8 +57,13 @@ The challenges are organized by complexity and technical focus.
 
 ### 🔹 Object-Oriented Programming (OOP)
 Moving beyond procedural code.
-* **Classes & Objects:** Modeling real-world entities (e.g., `Artist`) with attributes and behaviors.
-* **State Management:** Using `self` to manage instance data.
+* **Classes & Objects:** Modeling real-world entities (e.g., `Artist`, `Matrix`) with attributes and behaviors.
+* **State Management:** Using `self` to manage instance data and persist logic across method calls.
+
+### 🔹 Memory & Advanced Manipulation
+* **In-Place Operations:** Mastering `[:]` (slice assignment) to modify object contents while preserving memory references, essential for passing strict tests.
+* **Defensive Programming:** Implementing **Guard Clauses** (`if not self.matrix`) to prevent `ZeroDivisionError` and handle edge cases robustly.
+* **Algorithmic Logic:** Solving 2D rotations using Modulo `%` and bidirectional list slicing strategies.
 
 ### 🔹 Data Structures
 * **Dictionaries:** Used for mapping entities to values.
