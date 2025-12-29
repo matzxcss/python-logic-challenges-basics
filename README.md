@@ -37,7 +37,7 @@ class MissionCork:
         self.destination = "Cork, Ireland :: MTU"
         self.weapon = "Python"
         self.days_training = 30
-        self.protocols_completed = 15
+        self.protocols_completed = 16
         
     def status(self):
         return f"[TRAINING] {self.protocols_completed} protocols mastered in {self.days_training} days"
@@ -73,7 +73,7 @@ Training protocols organized by complexity and technical focus.
 | `13` | **Student Ranking** | Sorted(), Lambda, Tuples | O(n log n) |
 | `14` | **High BPM Beats** | Dict Comprehension, Type Hints | O(n) |
 | `15` | **Decorator Pipeline** | Decorators, Functional Programming | O(n) |
-| `16` | **The Matrix Architect** | In-Place Mutation, Guard Clauses, Slicing | $(n^2) |
+| `16` | **The Matrix Architect** | In-Place Mutation, Guard Clauses, Slicing | (n^2) |
 
 ---
 
@@ -168,7 +168,7 @@ def mission_status():
 <!--
     Training initiated: November 24, 2024
     Current day: Day 30
-    Protocols completed: 15
+    Protocols completed: 16
     Destination: Cork, Ireland
     Method: Logic + Persistence
     Outcome: Guaranteed
