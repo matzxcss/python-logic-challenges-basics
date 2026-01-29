@@ -163,17 +163,17 @@ def mission_status():
 </div>
 ---
 
-<div align="center">
+<div align="center-right">
 
 **⬙ SYSTEM STATUS: TRAINING IN PROGRESS ⬙**
 
-            <!--
-                                    Training initiated: November 24, 2024
-                                    Current day: Day 47
-                                    Protocols completed: 16
-                                    Destination: Cork, Ireland
-                                    Method: Logic + Persistence
-                                    Outcome: Guaranteed
-            -->
+<!--
+Training initiated: November 24, 2024
+Current day: Day 47
+Protocols completed: 16
+Destination: Cork, Ireland
+Method: Logic + Persistence
+Outcome: Guaranteed
+-->
 
 </div>
