@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 
 ╔══════════════════════════════════════════════════════════════╗
@@ -19,6 +21,8 @@
 LOGIC PROTOCOLS :: THE ROAD TO CORK 🇮🇪
 
 ````
+</div>
+
 
 <div align="center">
 
@@ -145,18 +149,16 @@ def mission_status():
 
 ---
 
-<div align="right">
+<div align="center">
 
 **⬙ SYSTEM STATUS: TRAINING IN PROGRESS ⬙**
 
+```
+⬙ SYSTEM STATUS ⬙
+-----------------
+Training initiated: November 24, 2024
+Current day: Day 47
+Protocols completed: 16
+Destination: Cork, Ireland
+Outcome: Guaranteed
 ````
-
-╔══════════════════════════════╗
-║ ⬙ MISSION STATUS             ║
-╠══════════════════════════════╣
-║ Initiated  : Nov 24, 2024    ║
-║ Day        : 47              ║
-║ Protocols  : 16              ║
-║ Destination: Cork, Ireland   ║
-║ Outcome    : Guaranteed      ║
-╚══════════════════════════════╝
