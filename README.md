@@ -160,7 +160,3 @@ def mission_status():
 ║ Destination: Cork, Ireland   ║
 ║ Outcome    : Guaranteed      ║
 ╚══════════════════════════════╝
-
-```
-
-</div>
