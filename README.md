@@ -8,14 +8,14 @@
 <div align="center">
 
 ```
-            ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-            ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-            ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
-            ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
-            ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
-            ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+                                    ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+                                    ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+                                    ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
+                                    ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
+                                    ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
+                                    ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
     
-                  LOGIC PROTOCOLS :: THE ROAD TO CORK 🇮🇪
+                                          LOGIC PROTOCOLS :: THE ROAD TO CORK 🇮🇪
 ```
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -168,12 +168,12 @@ def mission_status():
 **⬙ SYSTEM STATUS: TRAINING IN PROGRESS ⬙**
 
             <!--
-            Training initiated: November 24, 2024
-            Current day: Day 47
-            Protocols completed: 16
-            Destination: Cork, Ireland
-            Method: Logic + Persistence
-            Outcome: Guaranteed
+                                    Training initiated: November 24, 2024
+                                    Current day: Day 47
+                                    Protocols completed: 16
+                                    Destination: Cork, Ireland
+                                    Method: Logic + Persistence
+                                    Outcome: Guaranteed
             -->
 
 </div>
