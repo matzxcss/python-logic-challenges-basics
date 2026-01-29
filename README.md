@@ -163,8 +163,6 @@ def mission_status():
 
 **⬙ SYSTEM STATUS: TRAINING IN PROGRESS ⬙**
 
-</div>
-
 <!--
     Training initiated: November 24, 2024
     Current day: Day 47
@@ -173,3 +171,5 @@ def mission_status():
     Method: Logic + Persistence
     Outcome: Guaranteed
 -->
+
+</div>
