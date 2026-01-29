@@ -1,22 +1,24 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║  NEURAL TRAINING LOG :: PYTHON LOGIC PROTOCOLS              ║
-║  MISSION: CORK, IRELAND :: STATUS: ACTIVE EVOLUTION         ║
+║  NEURAL TRAINING LOG :: PYTHON LOGIC PROTOCOLS               ║
+║  MISSION: CORK, IRELAND :: STATUS: ACTIVE EVOLUTION          ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
 ```
-                                    ██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
-                                    ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
-                                    ██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
-                                    ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
-                                    ██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
-                                    ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-    
-                                          LOGIC PROTOCOLS :: THE ROAD TO CORK 🇮🇪
-```
+
+██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
+██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
+██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+
+LOGIC PROTOCOLS :: THE ROAD TO CORK 🇮🇪
+
+````
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE_EVOLUTION-00FF00?style=for-the-badge)
@@ -38,114 +40,90 @@ class MissionCork:
         self.weapon = "Python"
         self.days_training = 47
         self.protocols_completed = 16
-        
+
     def status(self):
-        return f"[TRAINING] {self.protocols_completed} protocols mastered in {self.days_training} days"
-```
+        return "[TRAINING] ACTIVE — CONTINUOUS EVOLUTION"
+````
 
-This repository is my **neural training log**—a catalog of cognitive evolution through algorithmic thinking. Every challenge solved is a step closer to becoming a Software Engineer in Ireland.
+This repository is a **structured training log** focused on **algorithmic thinking, Python mastery, and problem decomposition**.
+Each protocol represents a **deliberate cognitive upgrade** toward becoming a **Software Engineer in Ireland**.
 
-**Core Philosophy:**
-- **Execution > Theory:** Learning by building, not just reading
-- **English First:** All code, commits, and documentation in English
-- **First Principles:** Understanding the "why" behind every line
+### Core Principles
 
----
-
-## ∅ PROTOCOL ARCHIVE
-
-Training protocols organized by complexity and technical focus.
-
-| ID | Protocol Name | Core Concepts | Complexity |
-|:---:|:---|:---|:---:|
-| `01` | **Guinness Budget** | While Loops, Float Math | O(n) |
-| `02` | **BPM Parity Check** | Modulo %, Conditionals | O(1) |
-| `03` | **Dublin Weather** | F-strings, Comparison | O(1) |
-| `04` | **Dublin Bus Queue** | Lists, FIFO Logic | O(n) |
-| `05` | **Setlist Shuffler** | Random Module, List Manipulation | O(n) |
-| `06` | **Euro Converter v2** | Functions, Type Conversion | O(1) |
-| `07` | **Safe Euro Converter** | Try/Except, Error Handling | O(1) |
-| `08` | **The Gatekeeper** | While/Else, Auth Logic | O(n) |
-| `09` | **Artist Class** | OOP, Classes, Methods | O(1) |
-| `10` | **Digital Wallet** | OOP, State Management | O(1) |
-| `11` | **Gym Rat Protocol** | Math Formulas, Dict Storage | O(1) |
-| `12` | **Cork Countdown** | Datetime Module, Parsing | O(1) |
-| `13` | **Student Ranking** | Sorted(), Lambda, Tuples | O(n log n) |
-| `14` | **High BPM Beats** | Dict Comprehension, Type Hints | O(n) |
-| `15` | **Decorator Pipeline** | Decorators, Functional Programming | O(n) |
-| `16` | **The Matrix Architect** | In-Place Mutation, Guard Clauses, Slicing | O(n^2) |
+* **Execution > Theory**
+* **English First**
+* **First Principles**
+* **Discipline > Motivation**
 
 ---
 
-## 🗂️ Challenge Log & Architecture
+## ∅ PROTOCOL INDEX (RECRUITER VIEW)
 
-The challenges are organized by complexity and technical focus.
+> Quick technical scan (30–60 seconds)
 
-| ID | Challenge Name | Key Concepts | Complexity (Big O) |
-| :--- | :--- | :--- | :---: |
-| `01` | **Guinness Budget** | `While Loops`, `Float Math` | $O(n)$ |
-| `02` | **BPM Parity Check** | `Modulo %`, `Conditionals` | $O(1)$ |
-| `03` | **Dublin Weather** | `F-strings`, `Comparison Operators` | $O(1)$ |
-| `04` | **Flatmate Bill Splitter** | `Dictionaries`, `Financial Logic` | $O(n)$ |
-| `05` | **Dublin Bus Queue** | `Lists`, `FIFO Logic`, `Pop/Append` | $O(n)$ |
-| `06` | **Setlist Shuffler** | `Random Module`, `List Manipulation` | $O(n)$ |
-| `07` | **Safe Euro Converter** | `Try/Except`, `Error Handling` | $O(1)$ |
-| `08` | **The Gatekeeper** | `While/Else`, `Auth Logic` | $O(n)$ |
-| `09` | **Artist Class** | `OOP`, `Classes`, `Self`, `Methods` | $O(1)$ |
-| `10` | **Digital Wallet** | `OOP`, `Lists as History` | $O(1)$ |
-| `11` | **Gym Rat Protocol** | `Math Formulas`, `Dictionaries` | $O(1)$ |
-| `12` | **Cork Countdown** | `Datetime Module`, `Date Parsing` | $O(1)$ |
-| `13` | **Student Ranking** | `Sorted`, `Lambda`, `Tuples` | $O(n \log n)$ |
-| `14` | **High BPM Beats** | `Dict Comprehension`, `Type Hinting` | $O(n)$ |
-| `15` | **Decorator Pipeline** | `Decorators`, `Functional Programming` | $O(n)$ |
-| `16` | **The Matrix Architect** | `In-Place Mutation`, `Guard Clauses`, `Slicing` | $O(n^2)$ |
+|  ID | Protocol            | Focus           | Concepts              |    Big-O   |
+| :-: | ------------------- | --------------- | --------------------- | :--------: |
+|  01 | Guinness Budget     | Control Flow    | While, Float Math     |    O(n)    |
+|  02 | BPM Parity Check    | Logic           | Modulo, Conditionals  |    O(1)    |
+|  03 | Dublin Weather      | Formatting      | F-strings, Comparison |    O(1)    |
+|  04 | Flatmate Bill       | Data Mapping    | Dicts, Finance Logic  |    O(n)    |
+|  05 | Dublin Bus Queue    | Data Structures | Lists, FIFO           |    O(n)    |
+|  06 | Setlist Shuffler    | Randomization   | Random, Lists         |    O(n)    |
+|  07 | Safe Euro Converter | Robustness      | Try/Except            |    O(1)    |
+|  08 | The Gatekeeper      | Control Flow    | While/Else, Auth      |    O(n)    |
+|  09 | Artist Class        | OOP             | Classes, Methods      |    O(1)    |
+|  10 | Digital Wallet      | State           | OOP, History          |    O(1)    |
+|  11 | Gym Rat Protocol    | Math Logic      | Dicts, Formulas       |    O(1)    |
+|  12 | Cork Countdown      | Time            | Datetime, Parsing     |    O(1)    |
+|  13 | Student Ranking     | Algorithms      | Sorted, Lambda        | O(n log n) |
+|  14 | High BPM Beats      | Expressiveness  | Dict Comprehension    |    O(n)    |
+|  15 | Decorator Pipeline  | FP              | Decorators            |    O(n)    |
+|  16 | Matrix Architect    | Advanced Logic  | In-Place Ops          |    O(n²)   |
 
 ---
 
-## 🚀 DEPLOYMENT INSTRUCTIONS
+## 🧠 ARCHITECTURE & TECHNICAL DEPTH
+
+### 🔹 Functional Programming
+
+* Custom decorator pipelines
+* Decorator stacking & execution order
+* Data filtering, transformation, formatting
+
+### 🔹 Object-Oriented Programming
+
+* Domain modeling (`Artist`, `Wallet`, `Matrix`)
+* State persistence via `self`
+* Clean method boundaries
+
+### 🔹 Memory & Defensive Programming
+
+* In-place mutation with slice assignment (`[:]`)
+* Guard clauses for edge-case prevention
+
+### 🔹 Data Structures & Algorithms
+
+* Dictionaries for mapping & ranking
+* Lists as queues (FIFO)
+* Sorting, slicing, 2D transformations
+
+---
+
+## 🚀 DEPLOYMENT
 
 ```bash
-# Clone the training protocols
 git clone https://github.com/matzxcss/python-logic-challenges-basics.git
-
-# Navigate to protocol directory
 cd python-logic-challenges-basics
-
-# Execute any protocol
 python3 01_guinness_budget.py
 ```
 
 ---
 
-### 🔹 Functional Programming & Decorators
-* **Custom Decorators:** Implementation of a multi-layered pipeline to filter, transform, and format data structures dynamically.
-* **Decorator Stacking:** Understanding the "bottom-up" execution order and how data flows through wrapped functions.
-
-### 🔹 Object-Oriented Programming (OOP)
-Moving beyond procedural code.
-* **Classes & Objects:** Modeling real-world entities (e.g., `Artist`, `Matrix`) with attributes and behaviors.
-* **State Management:** Using `self` to manage instance data and persist logic across method calls.
-
-### 🔹 Memory & Advanced Manipulation
-* **In-Place Operations:** Mastering `[:]` (slice assignment) to modify object contents while preserving memory references, essential for passing strict tests.
-* **Defensive Programming:** Implementing **Guard Clauses** (`if not self.matrix`) to prevent `ZeroDivisionError` and handle edge cases robustly.
-* **Algorithmic Logic:** Solving 2D rotations using Modulo `%` and bidirectional list slicing strategies.
-
-### 🔹 Data Structures
-* **Dictionaries:** Used for mapping entities to values.
-* **Queues (Lists):** Implementing FIFO (First-In-First-Out) logic for simulations like the Dublin Bus.
-
-**Current Focus:** Advanced Python (Decorators, Generators, Async)  
-**Next Milestone:** Data Structures & Algorithms (Trees, Graphs, Dynamic Programming)  
-**Final Objective:** Software Engineer @ MTU Cork, Ireland
-
----
-
 ## ⬙ PHILOSOPHICAL CORE
 
-> "Logic is the anatomy of thought."  
-> "Every algorithm solved is a battle won."  
-> "The distance between Brazil and Ireland is measured in lines of code."
+> "Logic is the anatomy of thought."
+> "Every solved algorithm is a battle won."
+> "Distance is measured in lines of code."
 
 ---
 
@@ -157,13 +135,15 @@ def mission_status():
         "origin": "Brazil",
         "destination": "Cork, Ireland",
         "method": "Python + Discipline + Strategy",
-        "result": "INEVITABLE"
+        "status": "INEVITABLE",
     }
 ```
+
 </div>
+
 ---
 
-<div align="center-right">
+<div align="right">
 
 **⬙ SYSTEM STATUS: TRAINING IN PROGRESS ⬙**
 
@@ -172,7 +152,6 @@ Training initiated: November 24, 2024
 Current day: Day 47
 Protocols completed: 16
 Destination: Cork, Ireland
-Method: Logic + Persistence
 Outcome: Guaranteed
 -->
 
