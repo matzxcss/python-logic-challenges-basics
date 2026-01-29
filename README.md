@@ -1,11 +1,11 @@
-<!--
+```
+
 ╔══════════════════════════════════════════════════════════════╗
 ║  NEURAL TRAINING LOG :: PYTHON LOGIC PROTOCOLS               ║
 ║  MISSION: CORK, IRELAND :: STATUS: ACTIVE EVOLUTION          ║
 ╚══════════════════════════════════════════════════════════════╝
--->
 
-<div align="center">
+```
 
 ```
 
@@ -19,6 +19,8 @@
 LOGIC PROTOCOLS :: THE ROAD TO CORK 🇮🇪
 
 ````
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE_EVOLUTION-00FF00?style=for-the-badge)
@@ -147,12 +149,18 @@ def mission_status():
 
 **⬙ SYSTEM STATUS: TRAINING IN PROGRESS ⬙**
 
-<!--
-Training initiated: November 24, 2024
-Current day: Day 47
-Protocols completed: 16
-Destination: Cork, Ireland
-Outcome: Guaranteed
--->
+````
+
+╔══════════════════════════════╗
+║ ⬙ MISSION STATUS             ║
+╠══════════════════════════════╣
+║ Initiated  : Nov 24, 2024    ║
+║ Day        : 47              ║
+║ Protocols  : 16              ║
+║ Destination: Cork, Ireland   ║
+║ Outcome    : Guaranteed      ║
+╚══════════════════════════════╝
+
+```
 
 </div>
