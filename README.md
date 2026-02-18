@@ -44,8 +44,8 @@ class MissionCork:
         self.origin = "Brazil :: FATEC"
         self.destination = "Cork, Ireland :: MTU"
         self.weapon = "Python"
-        self.days_training = 60
-        self.protocols_completed = 17
+        self.days_training = 62
+        self.protocols_completed = 18
 
     def status(self):
         return "[TRAINING] ACTIVE — CONTINUOUS EVOLUTION"
@@ -86,6 +86,7 @@ Each protocol represents a **deliberate cognitive upgrade** toward becoming a **
 |  15 | Decorator Pipeline  | FP              | Decorators            |    O(n)    |
 |  16 | Matrix Architect    | Advanced Logic  | In-Place Ops          |    O(n²)   |
 |  17 | Logic Training      | LeetCode        | Python Concepts       |    O(n)    |
+|  18 | Magic Logic         | Basic Exercises | Python Basics         |    O(n)    |
 
 ---
 
@@ -158,8 +159,8 @@ def mission_status():
 ⬙ SYSTEM STATUS ⬙
 -----------------
 Training initiated: November 24, 2024
-Current day: Day 60
-Protocols completed: 17
+Current day: Day 62
+Protocols completed: 18
 Destination: Cork, Ireland
 Outcome: Guaranteed
 ````
