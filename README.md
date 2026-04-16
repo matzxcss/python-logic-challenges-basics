@@ -44,7 +44,7 @@ class MissionCork:
         self.origin = "Brazil :: FATEC"
         self.destination = "Cork, Ireland :: MTU"
         self.weapon = "Python"
-        self.days_training = 62
+        self.days_training = 102
         self.protocols_completed = 18
 
     def status(self):
@@ -159,7 +159,7 @@ def mission_status():
 ⬙ SYSTEM STATUS ⬙
 -----------------
 Training initiated: November 24, 2024
-Current day: Day 62
+Current day: Day 102
 Protocols completed: 18
 Destination: Cork, Ireland
 Outcome: Guaranteed
