@@ -36,9 +36,9 @@ LOGIC PROTOCOLS :: THE ROAD TO EUROPE 🇪🇺
 class MissionEurozone:
     def __init__(self):
         self.origin = "Brazil :: FATEC"
-        self.destination = "Eurozone Backend Infrastructure (IE)"
+        self.destination = "Eurozone Backend Infrastructure"
         self.weapon = "Python"
-        self.days_training = 102
+        self.days_training = 188
         self.protocols_completed = 18
 
     def status(self):
@@ -146,8 +146,8 @@ def mission_status():
 ```text
 ⬙ SYSTEM STATUS ⬙
 -----------------
-Training initiated: November 24, 2024
-Current uptime: 102 days
+Training initiated: November 24, 2025
+Current uptime: 188 days
 Protocols engineered: 18
 Target: European Infrastructure
 Outcome: Guaranteed
